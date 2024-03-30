@@ -6,4 +6,5 @@ Prosta aplikacja do zarządzania codziennymi zadaniami
 1) Pobudka
 2) Śniadanie
 3) Gimnastyka
-
+4) Przygotowanie objadu
+5) Objad
