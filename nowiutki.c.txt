@@ -1,0 +1,5 @@
+void funkcja_nowiutkia(void)
+{
+	int cialko_funkcji;
+
+}
