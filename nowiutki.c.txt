@@ -3,3 +3,4 @@ void funkcja_nowiutkia(void)
 	int cialko_funkcji;
 
 }
+A tu jest zlosliwy blad !
